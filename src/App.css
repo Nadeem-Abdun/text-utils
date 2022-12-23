@@ -1,0 +1,62 @@
+.main-conatiner {
+  min-height: 100vh;
+}
+
+.bg-container {
+  min-height: 100%;
+}
+
+.preview-container {
+  min-height: 30vh;
+}
+
+.about-center {
+  margin-top: 4%;
+}
+
+.about-center .line-height-about {
+  line-height: 7vh;
+}
+
+.full-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80vw;
+  min-height: 84.4vh;
+}
+
+.about-card-img {
+  height: 70vh;
+  width: 79vw;
+}
+
+.alert {
+  height: 5vh;
+  line-height: 0vh;
+}
+
+.alertContainerlight {
+  height: 5vh;
+  background-color: #f8f9fa;
+}
+
+.alertContainerdark {
+  height: 5vh;
+  background-color: #212529;
+}
+
+.footer {
+  position: relative;
+  bottom: 0vh;
+  height: 7vh;
+  text-align: center;
+  line-height: 7vh;
+}
